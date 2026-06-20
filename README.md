@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0169-majority-element) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
