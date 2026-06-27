@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
