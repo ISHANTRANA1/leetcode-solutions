@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0704-binary-search](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
