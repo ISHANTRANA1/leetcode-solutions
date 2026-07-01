@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3046-split-the-array](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/3046-split-the-array) |
 | [3731-find-missing-elements](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3046-split-the-array](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/3046-split-the-array) |
 | [3731-find-missing-elements](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3046-split-the-array](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/3046-split-the-array) |
 ## Simulation
 |  |
 | ------- |
