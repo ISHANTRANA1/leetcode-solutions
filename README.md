@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2951-find-the-peaks](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [3046-split-the-array](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/3046-split-the-array) |
 | [3731-find-missing-elements](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2843-count-symmetric-integers](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
+| [2951-find-the-peaks](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2951-find-the-peaks) |
 ## Dynamic Programming
 |  |
 | ------- |
