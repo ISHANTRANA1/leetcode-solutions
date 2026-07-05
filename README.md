@@ -168,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
