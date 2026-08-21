@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0561-array-partition) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -302,4 +304,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0056-merge-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
