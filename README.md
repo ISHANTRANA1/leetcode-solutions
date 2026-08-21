@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2951-find-the-peaks](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [3046-split-the-array](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/3046-split-the-array) |
+| [3379-transformed-array](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/3379-transformed-array) |
 | [3731-find-missing-elements](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3379-transformed-array](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/3379-transformed-array) |
 ## Union-Find
 |  |
 | ------- |
