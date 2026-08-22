@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0932-beautiful-array](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0932-beautiful-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0268-missing-number) |
+| [0932-beautiful-array](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0932-beautiful-array) |
 | [1137-n-th-tribonacci-number](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [2843-count-symmetric-integers](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
 ## Hash Table
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0169-majority-element) |
+| [0932-beautiful-array](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0932-beautiful-array) |
 ## Counting
 |  |
 | ------- |
