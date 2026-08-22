@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0561-array-partition) |
+| [0565-array-nesting](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0565-array-nesting) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0565-array-nesting](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0565-array-nesting) |
 ## Binary Tree
 |  |
 | ------- |
