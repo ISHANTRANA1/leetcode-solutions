@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1991-find-the-middle-index-in-array](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
