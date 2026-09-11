@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [3046-split-the-array](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/3046-split-the-array) |
 | [3379-transformed-array](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/3379-transformed-array) |
+| [3467-transform-array-by-parity](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [3467-transform-array-by-parity](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3046-split-the-array](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/3046-split-the-array) |
+| [3467-transform-array-by-parity](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
