@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2295-replace-elements-in-an-array](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2295-replace-elements-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2951-find-the-peaks](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2951-find-the-peaks) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2295-replace-elements-in-an-array](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2295-replace-elements-in-an-array) |
 | [3046-split-the-array](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/3046-split-the-array) |
 | [3731-find-missing-elements](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2295-replace-elements-in-an-array](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/2295-replace-elements-in-an-array) |
 | [3379-transformed-array](https://github.com/ISHANTRANA1/leetcode-solutions/tree/master/3379-transformed-array) |
 ## Union-Find
 |  |
